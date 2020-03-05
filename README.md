@@ -28,7 +28,7 @@ cordova build ios
 Cmd + R should run the application once build is successful. Click on the Payment button that opens the checkout. 
 Based on the callback(success / failure) relevant event handlers would be called. 
 
-##Point to Note
+## Point to Note
 
 In case you're seeeing an error along the lines of dyld: Library not loaded: @rpath/Razorpay.framework/Razorpay
 Please Embed and Sign the Razorpay.Framework from the General Settings in Xcode. 
